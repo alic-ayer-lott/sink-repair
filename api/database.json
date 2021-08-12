@@ -1,6 +1,6 @@
 {
     "plumbers": [],
-    "completions: [],
+    "completions": [],
     "requests": [
         {
             "id": 1,
@@ -8,6 +8,6 @@
             "address": "34445 Bianka Ports",
             "budget": 400,
             "neededBy": "2021-08-27"
-        }
+        }  
     ]
 }
