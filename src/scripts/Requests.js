@@ -2,7 +2,7 @@ import { getRequests, deleteRequest } from "./dataAccess.js"
 
 
 
-export const Requests = () => {
+export const Requests = () => { //16. 
     const requests = getRequests()
 
     let html = `
